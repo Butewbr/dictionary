@@ -1,4 +1,2 @@
-# dictionary
-사전 읽기 (C++)
-
-이게 내 첫 번째 프로그래밍 II 과제입니다! 이 코드는 사전을 읽어요.
+# Dictionary Reader
+Dictionary reader in C++ for a University Project.
